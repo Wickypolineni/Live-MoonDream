@@ -9,7 +9,8 @@ Using Whisper Speech to text:<br>
 Or, Use google Speech Recognition: <br>
 ```pip install -r google_requirements.txt```<br>
 ```google_client.py```<br>
-In the both cases repalce the url
+
+### In the both cases repalce the url
 ```app_url="https://460c1d4fa3515c02dd.gradio.live/" ```
 
 If you don't want to use the vs code due to low ram
