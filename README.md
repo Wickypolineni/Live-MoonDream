@@ -23,3 +23,8 @@ modify the path in ```run.py``` then click on ```run.bat```
 
 ### Credit:
 [moondream](https://github.com/vikhyat/moondream)
+
+
+
+#### MoonDream Webcam
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuralfalcon/moondream-realtime/blob/main/Moondream_Webcam.ipynb) <br>
