@@ -1,5 +1,5 @@
 # 🌔 Moondream Realtime
-A tiny vision language model that kicks ass and runs anywhere
+A tiny vision language model that runs anywhere
 
 [Website](https://moondream.ai/) | [Hugging Face](https://huggingface.co/vikhyatk/moondream2) | [Demo](https://huggingface.co/spaces/vikhyatk/moondream2) | [Moondream Github](https://github.com/vikhyat/moondream)
 
